@@ -1,0 +1,7 @@
+README.md
+setup.py
+ragproject.egg-info/PKG-INFO
+ragproject.egg-info/SOURCES.txt
+ragproject.egg-info/dependency_links.txt
+ragproject.egg-info/requires.txt
+ragproject.egg-info/top_level.txt
